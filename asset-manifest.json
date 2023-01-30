@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Router/static/css/main.eb769a03.css",
+    "main.js": "/Router/static/js/main.7dace564.js",
+    "static/js/415.3ff933df.chunk.js": "/Router/static/js/415.3ff933df.chunk.js",
+    "static/js/175.63592cd8.chunk.js": "/Router/static/js/175.63592cd8.chunk.js",
+    "static/js/616.c2c305d0.chunk.js": "/Router/static/js/616.c2c305d0.chunk.js",
+    "static/js/77.738b786e.chunk.js": "/Router/static/js/77.738b786e.chunk.js",
+    "static/js/805.24a6ed23.chunk.js": "/Router/static/js/805.24a6ed23.chunk.js",
+    "static/js/445.0e702784.chunk.js": "/Router/static/js/445.0e702784.chunk.js",
+    "static/js/28.d0e05cff.chunk.js": "/Router/static/js/28.d0e05cff.chunk.js",
+    "static/js/934.8c280711.chunk.js": "/Router/static/js/934.8c280711.chunk.js",
+    "static/js/617.756edce4.chunk.js": "/Router/static/js/617.756edce4.chunk.js",
+    "static/js/820.6d3b1cbf.chunk.js": "/Router/static/js/820.6d3b1cbf.chunk.js",
+    "index.html": "/Router/index.html",
+    "main.eb769a03.css.map": "/Router/static/css/main.eb769a03.css.map",
+    "main.7dace564.js.map": "/Router/static/js/main.7dace564.js.map",
+    "415.3ff933df.chunk.js.map": "/Router/static/js/415.3ff933df.chunk.js.map",
+    "175.63592cd8.chunk.js.map": "/Router/static/js/175.63592cd8.chunk.js.map",
+    "616.c2c305d0.chunk.js.map": "/Router/static/js/616.c2c305d0.chunk.js.map",
+    "77.738b786e.chunk.js.map": "/Router/static/js/77.738b786e.chunk.js.map",
+    "805.24a6ed23.chunk.js.map": "/Router/static/js/805.24a6ed23.chunk.js.map",
+    "445.0e702784.chunk.js.map": "/Router/static/js/445.0e702784.chunk.js.map",
+    "28.d0e05cff.chunk.js.map": "/Router/static/js/28.d0e05cff.chunk.js.map",
+    "934.8c280711.chunk.js.map": "/Router/static/js/934.8c280711.chunk.js.map",
+    "617.756edce4.chunk.js.map": "/Router/static/js/617.756edce4.chunk.js.map",
+    "820.6d3b1cbf.chunk.js.map": "/Router/static/js/820.6d3b1cbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb769a03.css",
+    "static/js/main.7dace564.js"
+  ]
+}
